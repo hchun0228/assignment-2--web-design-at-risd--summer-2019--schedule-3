@@ -1,5 +1,6 @@
 body {
    background-color: rgb(184, 115, 59);
+   background-image: url("img/back.jpg");
    font-family: 'Major Mono Display', monospace;
    font-size:16px;
    color:white;
