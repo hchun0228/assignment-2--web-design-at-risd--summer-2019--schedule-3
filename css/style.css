@@ -4,3 +4,7 @@ body {
    font-size:13px;
    color:white;
 }
+div {
+  background-image:
+      url("/image/dawn.jpg");
+}
